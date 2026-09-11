@@ -1,0 +1,1 @@
+# CS3338 Second Project. This repository contains a fork called CS3338-Awesome-Website, modified for CS3338-sceond-project assignment on Git wookflows that include forking, branches, merging, and resolving merge conflicts.
