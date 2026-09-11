@@ -1,0 +1,45 @@
+commit bca4476033ec94cf78727912c8b7a8089150ed0d
+Merge: 10ab715 4f15e28
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 19:24:51 2026 -0700
+
+    I resolved the merge conflict in the index between main and index-fix.
+
+commit 4f15e28891aecdca3e1b1125f7ccfc91aecaac40
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 19:18:27 2026 -0700
+
+    I added one of my favorite movies to the index.
+
+commit 10ab71575ca22c49d4f0a925317b22be38558411
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 19:14:55 2026 -0700
+
+    I added my favorite food to the index.
+
+commit 1946f874fc4fc262df106fc96d61fb75b8b9f6cd
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 19:05:48 2026 -0700
+
+    Add README.md
+
+commit fa6a3d49382b289ac41bade70523d7a9874755d9
+Merge: 1d2bfc0 a351281
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 18:54:39 2026 -0700
+
+    Merge pull request #1 from Chark-Byte/info-fill
+    
+    index code comparisons, I answered the questions and filled in the blanks.
+
+commit a3512810ff879ae955e11d9fefc58d058da7d05c
+Author: Chark-Byte <charlierobin93@gmail.com>
+Date:   Thu Sep 10 18:29:03 2026 -0700
+
+    I filled the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
